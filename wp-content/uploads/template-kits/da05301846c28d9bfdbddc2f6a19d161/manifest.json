@@ -1,0 +1,1507 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Morro - Template kit for Resort",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/show.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Room",
+            "screenshot": "screenshots\/single-room.jpg",
+            "source": "templates\/single-room.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/single-room\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms",
+            "screenshot": "screenshots\/rooms.jpg",
+            "source": "templates\/rooms.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/rooms\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.jpg",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Morro V1 - Error 404",
+            "screenshot": "screenshots\/morro-v1-error-404.jpg",
+            "source": "templates\/morro-v1-error-404.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/?elementor_library=morro-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Morro V1 - Single Post",
+            "screenshot": "screenshots\/morro-v1-single-post.jpg",
+            "source": "templates\/morro-v1-single-post.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/?elementor_library=morro-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Morro V1 - Archive",
+            "screenshot": "screenshots\/morro-v1-archive.jpg",
+            "source": "templates\/morro-v1-archive.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/?elementor_library=morro-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Morro V1 - Footer",
+            "screenshot": "screenshots\/morro-v1-footer.jpg",
+            "source": "templates\/morro-v1-footer.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/?elementor_library=morro-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Morro V1 - Header",
+            "screenshot": "screenshots\/morro-v1-header.jpg",
+            "source": "templates\/morro-v1-header.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/morro\/?elementor_library=morro-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.7.9",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "3.6.0",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.5.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "tropical-beach-resort.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/tropical-beach-resort-800x524.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 177697,
+            "dimensions": [
+                1080,
+                708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XQRYM8L"
+        },
+        {
+            "filename": "pool-at-a-tropical-resort-e1641049052380.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/pool-at-a-tropical-resort-800x605.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 169292,
+            "dimensions": [
+                940,
+                711
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-96VDMJ4"
+        },
+        {
+            "filename": "atuh-beach-nusa-penida-bali-indonesia-travel-image.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/atuh-beach-nusa-penida-bali-indonesia-travel-image-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 178431,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NJGEBDQ"
+        },
+        {
+            "filename": "coast-as-a-background-from-top-view-gili-meno-island-indonesia-travel-image.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/coast-as-a-background-from-top-view-gili-meno-island-indonesia-travel-image-800x504.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/morro-v1-error-404.json",
+                    "name": "Morro V1 - Error 404"
+                }
+            ],
+            "filesize": 152952,
+            "dimensions": [
+                1080,
+                681
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FGYLFFS"
+        },
+        {
+            "filename": "air-conditioner-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/air-conditioner-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 808,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "luggage-cart-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/luggage-cart-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 1332,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "sink-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/sink-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 1161,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "key-card-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/key-card-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 900,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "wifi-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/wifi-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 2568,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "pool-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/pool-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 1282,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "cocktail-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/cocktail-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 1315,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "telephone-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/telephone-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 774,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "mandala_1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/mandala_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 27703,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/hotel-room-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 84080,
+            "dimensions": [
+                1080,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WX8N7EF"
+        },
+        {
+            "filename": "interior-of-a-twin-queen-bed-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/interior-of-a-twin-queen-bed-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 92275,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F752KND"
+        },
+        {
+            "filename": "modern-hotel-room-interior-with-two-separate-beds-tourism-business.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/modern-hotel-room-interior-with-two-separate-beds-tourism-business-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 106035,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPCJHQB"
+        },
+        {
+            "filename": "desk-and-bed-in-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/desk-and-bed-in-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 96819,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WUECWT9"
+        },
+        {
+            "filename": "slovenia-resort-lake-bled-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/slovenia-resort-lake-bled--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 105269,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7NECQS"
+        },
+        {
+            "filename": "portrait-of-an-interesting-young-man-in-winter-clothes-e1641049100112.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/portrait-of-an-interesting-young-man-in-winter-clothes-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 43878,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7PQ6LV"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "treva.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/treva-800x223.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54430,
+            "dimensions": [
+                2155,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "muzica.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/muzica-800x200.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26718,
+            "dimensions": [
+                2400,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "goldline.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/goldline-800x186.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18770,
+            "dimensions": [
+                2580,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "code-lab.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/code-lab-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18477,
+            "dimensions": [
+                2280,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "asgardia.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/asgardia-800x188.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 22134,
+            "dimensions": [
+                2558,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "couple-on-a-beach.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/couple-on-a-beach-800x704.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 136860,
+            "dimensions": [
+                1080,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3425U59"
+        },
+        {
+            "filename": "singlebed-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/singlebed-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1158,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "hotel-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/hotel-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 585,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "key-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/key-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1448,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icon-set-GN2QG46"
+        },
+        {
+            "filename": "standard-double-beds-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/standard-double-beds-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 101531,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUEW5VD"
+        },
+        {
+            "filename": "luxury-beach-bed-on-beach-in-mexico-e1641049124304.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/luxury-beach-bed-on-beach-in-mexico-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 167465,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BMQ2XB5"
+        },
+        {
+            "filename": "woman-at-spa-resort-by-the-swimming-pool--e1641049157468.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/woman-at-spa-resort-by-the-swimming-pool--800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 113598,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NU53QKA"
+        },
+        {
+            "filename": "hotel-room-interior-with-nice-view.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/hotel-room-interior-with-nice-view-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 128957,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FL4YB9N"
+        },
+        {
+            "filename": "54090-bed-and-curtains-in-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/54090-bed-and-curtains-in-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 100001,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RVXE7AN"
+        },
+        {
+            "filename": "hotel-room-2.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2022\/01\/hotel-room-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 93903,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8NCR59"
+        },
+        {
+            "filename": "img_1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 63016,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "portrait-of-young-couple-relaxing-in-spa-resort-using-smartphone.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/portrait-of-young-couple-relaxing-in-spa-resort-using-smartphone-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 102554,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z5U3T8H"
+        },
+        {
+            "filename": "spa-resort-manager-talking-on-phone.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/spa-resort-manager-talking-on-phone-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 94579,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LL4L6NS"
+        },
+        {
+            "filename": "img_3.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 70638,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "img_4.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 71472,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img_5.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111607,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img_6.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 85457,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img_7.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 45428,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "img_8.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 64765,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img_9.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/img_9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95843,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "couple-in-spa-resort-1-e1641049189561.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/couple-in-spa-resort-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 165587,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UM6TE39"
+        },
+        {
+            "filename": "housekeeper-cleaning-a-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/housekeeper-cleaning-a-hotel-room-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 62733,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WQDEU8C"
+        },
+        {
+            "filename": "upscale-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/upscale-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 91792,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YZCKUZ5"
+        },
+        {
+            "filename": "the-castel-sant-angelo-and-the-sant-angelo-bridge.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/the-castel-sant-angelo-and-the-sant-angelo-bridge-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/morro-v1-archive.json",
+                    "name": "Morro V1 - Archive"
+                }
+            ],
+            "filesize": 108627,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CV6CXD6"
+        },
+        {
+            "filename": "resort-hotel.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/resort-hotel-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 131176,
+            "dimensions": [
+                1080,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9RDF6RK"
+        },
+        {
+            "filename": "3d-rendering-luxury-tropical-bedroom-suite-in-resort-hotel-and-resort.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/3d-rendering-luxury-tropical-bedroom-suite-in-resort-hotel-and-resort-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 97422,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3Y7WTK"
+        },
+        {
+            "filename": "icon_morro.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/icon_morro.png",
+            "templates": [
+                {
+                    "source": "templates\/morro-v1-footer.json",
+                    "name": "Morro V1 - Footer"
+                }
+            ],
+            "filesize": 4277,
+            "dimensions": [
+                72,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_morro.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/morro\/wp-content\/uploads\/sites\/42\/2021\/12\/logo_morro.png",
+            "templates": [
+                {
+                    "source": "templates\/morro-v1-header.json",
+                    "name": "Morro V1 - Header"
+                }
+            ],
+            "filesize": 7710,
+            "dimensions": [
+                293,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
